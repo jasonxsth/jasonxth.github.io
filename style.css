@@ -1,0 +1,162 @@
+body {
+font-family: Roboto, sans-serif;
+margin: auto;
+width: 1219px;
+}
+.header {
+position: fixed;
+width: 1219px;
+padding-left: 55px;
+padding-right: 55px;
+height: 84px;
+background-color: #007765;
+top: 0;
+align-items: center;
+display: flex;
+justify-content: space-between;
+}
+
+.menu {
+color: white;
+text-align: right;
+font-size: 24px
+}
+
+a {text-decoration: none;
+  color: white;
+}
+
+.img-header {
+  width: 184px;
+  height: 45px;
+}
+.PiperNet-Is-Here {
+margin-top: 84px;
+background: url(https://i.ibb.co/JKn37KK/image.png);
+width: 1219px;
+height: 403px;
+padding-left: 55px;
+padding-right: 55px;
+background-size: cover;
+}
+h1 {
+text-align: center;
+font-size: 72px;
+line-height: 84px;
+font-weight: 500;
+color: white;
+padding-top: 160px;
+padding-bottom: 160px;
+}
+.The-Problem {
+display: flex;
+flex-direction: column;
+width: 1219px;
+padding-left: 55px;
+padding-right: 55px;
+padding-top: 48px;
+padding-bottom: 92px;
+background-color: #EEEEEE;
+}
+
+h2 {
+font-size: 64px;
+color: #007765;
+text-align: center;
+margin: 16px;
+font-style: normal
+}
+.The-Problem-text {
+  font-size: 34px;
+}
+.Hero {
+width: 1219px;
+margin: 0 auto;
+padding: 0 55px;
+height: 483px;
+background: url(https://i.ibb.co/YRK8WgZ/image.png);
+background-size: cover;
+}
+.Hero-text {
+font-style: italic;
+line-height: 56px;
+color: white;
+font-size: 48px;
+font-weight: 500;
+text-align: center;
+padding: 128px 163px 163px 127px 
+}
+.Introducing {
+width: 1219px;
+padding-left: 55px;
+padding-right: 55px;  
+padding-top: 48px;  
+padding-bottom: 16px;  
+font-size: 32px;
+background-color: #FFFFFF;
+}
+.ppc-logo {
+  height: 115px;
+  weight: 115px;
+  padding-right: 48px;
+  padding-bottom: 38px
+}
+.Introducing-content {
+display: flex
+}
+
+span {
+  font-style: italic
+}
+.The-Team {
+width: 1219px;
+padding-left: 55px;
+padding-right: 55px;
+padding-top: 48px;  
+padding-bottom: 32px;  
+background-color: #EEEEEE;
+font-size: 18px;
+font-style: italic;
+}
+figure {
+  text-align: center;
+  display: block;
+}
+img {
+  height: 168px;
+  weight: 168px;
+}
+h3 {
+font-size: 24px;
+color: #007765;
+margin: 5px;
+font-style: normal
+}
+.content1 {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+padding: 30px
+}
+.content2 {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+padding: 30px
+}
+.footer {
+background-color: #333333;
+width: 1219px;
+padding-left: 55px;
+padding-right: 55px;
+}
+.footer-content {
+color: white;
+font-size: 18px;
+text-align: center;
+padding-left: 340px;
+padding-right: 340px;
+padding-top: 48px;
+padding-bottom: 64px;
+}
+
